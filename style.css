@@ -1,11 +1,11 @@
-header{
-    background-color: lavender;   
+header {
+  background-color: lavender;
 }
 
-.my-card{
-    position: fixed;
-    right: 20px;
-    top: 145px;
-    background-color: lightyellow;
-    border-radius: 10px;
+.my-card {
+  position: fixed;
+  right: 20px;
+  top: 145px;
+  background-color: lightyellow;
+  border-radius: 10px;
 }
